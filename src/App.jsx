@@ -1,5 +1,9 @@
+// import Button from "./components/button/Button";
+
+import MainContent from "./components/mainContent/MainContent";
+
 const App = () => {
-	return <h1>Núcleo de la aplicación</h1>;
+	return <MainContent />;
 };
 
 export default App;

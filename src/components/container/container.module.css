@@ -1,0 +1,26 @@
+.container{
+    width: 100%;
+    padding: 28px 24px;
+}
+
+.first{
+    background-color: #fff;
+}
+
+.second{
+    background-color: #2ab3b1;
+}
+
+.third{
+    background-color: #4abfbd;
+}
+
+@media screen and (width >= 798px){
+    .second{
+        width: 50%;
+    }
+    .third{
+        width: 50%;
+    }
+}
+

@@ -1,0 +1,17 @@
+.text{
+    color: #9AA7BE;
+    line-height: 2rem;
+}
+
+.grey{
+    color: #D2EFEF;
+}
+
+.white{
+    color: white;
+}
+
+.price{
+    font-size: 2rem;
+    color: white;
+}
